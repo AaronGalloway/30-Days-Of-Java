@@ -3,9 +3,7 @@
 
 ### Completed By: Aaron Galloway
 
-My introduction to 30 Days of Code originally came from HackerRank. After finding the series on YouTube I decided to complete the series on YouTube independent of HackerRank.
-
-This code is far from perfect as I am still learning. Even with the excellent instruction from @BlondieBytes, I found that improvising or find errors on my own was a little challenging. If you find something that is out of order or could be done better, please let me know.
+My introduction to 30 Days of Code originally came from HackerRank. After finding the series on YouTube I decided to complete the series on YouTube independent of HackerRank. This code is far from perfect as I am still learning. Even with the excellent instruction from @BlondieBytes, I found that improvising or find errors on my own was a little challenging. If you find something that is out of order or could be done better, please let me know.
 ---
 ## Items covered in the tutorial:
 1. Overview of Object Oriented Programming, Classes, and Data Structures
